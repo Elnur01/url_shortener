@@ -12,10 +12,12 @@ For using pyshortener version you must install pyshortener `pip install pyshorte
 For using Bit.ly version:
 
 Download the Bitly API module from the following link: https://github.com/bitly/bitly-api-python. 
-To download the API module, press the green button: Clone or download (on the right), and afterwards, press Download ZIP
-Unzip the downloaded folder into the project directory and navigate into the folder bitly-api-python-master by entering cd bitly-api-python-master.
-Install the bitly_api module by entering the command into the terminal: python setup.py install.
-In the terminal, enter your Python shell by entering the command python and afterwards, enter import bitly_api. 
+To download the API module, press the green button: *Clone or download* (on the right), and afterwards, press *Download ZIP*
+
+Unzip the downloaded folder into the project directory and navigate into the folder *bitly-api-python-master* by entering `cd bitly-api-python-master`.
+Install the bitly_api module by entering the command into the terminal: `python setup.py install`.
+
+In the terminal, enter your Python shell by entering the command `python` and afterwards, enter `import bitly_api`. 
 If there are no errors, the module was successfully installed (ignore syntax warnings).
 Run your code again and it should work.
 
