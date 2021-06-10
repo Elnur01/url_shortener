@@ -8,9 +8,10 @@ Both of them are quite useful, but for Bit.ly version you'll need unique token.
 Furthermore it Bit.ly version has special abilities. You can analyze how many clicks were to your short link. 
 
 For using pyshortener version you must install pyshortener `pip install pyshorteners`
+
 For using Bit.ly version:
 
-Download the Bitly API module from the following link: bitly-api-python. 
+Download the Bitly API module from the following link: https://github.com/bitly/bitly-api-python. 
 To download the API module, press the green button: Clone or download (on the right), and afterwards, press Download ZIP
 Unzip the downloaded folder into the project directory and navigate into the folder bitly-api-python-master by entering cd bitly-api-python-master.
 Install the bitly_api module by entering the command into the terminal: python setup.py install.
