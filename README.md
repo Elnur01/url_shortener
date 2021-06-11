@@ -1,6 +1,6 @@
 # url_shortener
 
-As you know URL shortener help to reduce the length of the URL so that it can be shared easily on platforms, where a number of characters are an issue. 
+As you know URL shortener helps to reduce the length of the URL so that it can be shared easily on platforms, where a number of characters are an issue. 
 There are many URL Shorteners available in the market today. But I've built my own tiny url shortner in python. 
 
 There are 2 Python files, one for Bit.ly the other is for pyshortener. 
